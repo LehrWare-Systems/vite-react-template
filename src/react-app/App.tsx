@@ -75,7 +75,7 @@ function App() {
 							<h3>Summer Solstice</h3>
 							<p className="beer-type">Hefeweizen</p>
 							<p className="beer-desc">Bohemian pilsner and German wheat are the base for this refreshing creation. There’s a little Citra hops for flavor in there too.</p>
-							<p className="abv">ABV: 7.5%</p>
+							<p className="abv">ABV: 4.5%</p>
 						</div>
 					</div>
 				</div>
